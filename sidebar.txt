@@ -1,7 +1,0 @@
-<<<<<<< Updated upstream
-This is a another side bar 
-=======
-This is a side bar
->>>>>>> Stashed changes
-
-This a another stage

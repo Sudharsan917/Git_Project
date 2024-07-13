@@ -1,2 +1,4 @@
 This is a side bar text 123456u
 this is afecth using git 
+This is a side bar  updated
+this is a side bar updating 2nd time 

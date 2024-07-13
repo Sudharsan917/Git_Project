@@ -1,0 +1,5 @@
+this is file1{a} i am using this for fetch commind 
+fetch command used for fetch the data from remoto to our local repo 
+fetch command is git pull and git merege
+fetch is used for whatever the data file changed we will the latest code from our repo
+it will ask the permission to fetch the data .
